@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ramon-umleal
-- 👀 I’m interested in Python / devopsec
+- 👀 I’m interested in Python DevSecOps
 - 🌱 I’m currently learning LGPD
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on DevSecOps
+- 📫 How to reach me ....
 
 <div>
 <a href="https://github.com/ramon-umleal">
